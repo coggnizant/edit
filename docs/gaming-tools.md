@@ -562,6 +562,7 @@
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mod_indexes)**
 * ↪️ **[Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_optimization_mods)**
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
+* ⭐ **[Modrinth](https://modrinth.com/mods)** - Minecraft Mod Hub
 * [Builders Refuge](https://modrinth.com/modpack/builders-refuge) - Building Modpack
 * [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
@@ -618,6 +619,7 @@
 
 * 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
 * ⭐ **[NameMC](https://namemc.com/)** - Minecraft Name & Skin Availability Tracker
+* ⭐ **[Modrinth Shaders](https://modrinth.com/shaders)** - Minecraft Shaders Hub
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [MinecraftSkins](https://www.minecraftskins.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
